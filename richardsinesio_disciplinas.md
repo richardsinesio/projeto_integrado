@@ -1,5 +1,0 @@
-- DevOps - Desenvolver aplicações para automação de processos.
-- Desenvolvimento de Sistemas - Aprender diversas linguagens para usarmos no projeto.
-- SQL - Linguagem necessária para criaçãoe manutenção em BD.
-- Analise Exploratoria de Dados - Entendimento das informações e criação de estruturas de analytics.
-- EngSoftware - Métodos de arquitetar/criar softwares.

@@ -1,2 +1,2 @@
 # projeto_integrado
-- Richard Sinesio da Silva - 1902373
+- Leonardo Natario Farias - 1901846
