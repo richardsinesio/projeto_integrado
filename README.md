@@ -1,2 +1,2 @@
 # projeto_integrado
-Grupo
+- Richard Sinesio da Silva - 1902373
